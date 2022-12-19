@@ -1,1 +1,1 @@
-https://pizzas-mamma-mia.netlify.app/cart
+https://pizzas-mamma-mia.netlify.app
