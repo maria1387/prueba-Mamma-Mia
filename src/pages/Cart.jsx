@@ -15,7 +15,7 @@ const Cart = () => {
         <div className="section-cart__container">
           <div className="cart">
             {cart.length === 0 ? (
-              <h2 className=" "> No item Added to the cart</h2>
+              <h2 className=" "> Ningún artículo en el  carrito</h2>
             ) : (
               <>
                 <Container>
